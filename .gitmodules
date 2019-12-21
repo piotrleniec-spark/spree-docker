@@ -1,0 +1,3 @@
+[submodule "spark-starter-kit"]
+	path = spark-starter-kit
+	url = git@github.com:piotrleniec-spark/spark-starter-kit.git
